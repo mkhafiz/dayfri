@@ -13,7 +13,7 @@ public class ClientMain {
     public static void main(String[] args) throws IOException {
 
         String input = " ";
-        boolean run = true;
+        boolean run = true; //
 
         System.out.println("Connecting to localhost...");
         // Connect to the server
